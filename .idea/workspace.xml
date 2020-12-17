@@ -29,7 +29,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f804b502-b0e6-4ad3-9c6b-83b33179c207" name="Default" comment="" />
+    <list default="true" id="f804b502-b0e6-4ad3-9c6b-83b33179c207" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/korolchuk/catalog/ui/activity/CheckOutScreenActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/korolchuk/catalog/ui/activity/CheckOutScreenActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/korolchuk/catalog/ui/activity/IndividualProductActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/korolchuk/catalog/ui/activity/IndividualProductActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/korolchuk/catalog/ui/activity/MainAppActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/korolchuk/catalog/ui/activity/MainAppActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/korolchuk/catalog/ui/activity/OpenScreenActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/korolchuk/catalog/ui/activity/OpenScreenActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/korolchuk/catalog/ui/activity/ShoppingCartActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/korolchuk/catalog/ui/activity/ShoppingCartActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,38 +80,6 @@
         <option value="valueResourceFile" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>sub</find>
-      <find>addToCart</find>
-      <find>shoppingCart</find>
-      <find>setTe</find>
-      <find>setT</find>
-      <find>intent</find>
-      <find>mAuth</find>
-      <find>addAuthStateListener</find>
-      <find>mAuthLis</find>
-      <find>View</find>
-      <find>setVis</find>
-      <find>progress</find>
-      <find>first</find>
-      <find>name</find>
-      <find>snac</find>
-      <find>finish</find>
-      <find>toast</find>
-      <find>get</find>
-      <find>getStr</find>
-      <find>fini</find>
-      <find>showToa</find>
-      <find>showToast</find>
-      <find>showT</find>
-      <find>show</find>
-      <find>sho</find>
-      <find>sna</find>
-      <find>snack</find>
-      <find>price</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
