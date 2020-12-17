@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Каталог</string>
+    <string name="register">Новый пользователь? <u>Зарегестрируйтесь</u></string>
+
+    <!-- Strings related to login -->
+    <string name="Welcome">Привет</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_sign_in">Войдите или зарегестрируйтесь</string>
+    <string name="action_sign_in_short">Вход</string>
+    <string name="error_invalid_email">Некорректный email адрес</string>
+    <string name="error_invalid_password">Пароль слишком короткий</string>
+    <string name="error_incorrect_password">Некорректный пароль</string>
+    <string name="error_field_required">Все поля обязательны</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="auth_failed">Ошибка. Попробуйте ещё раз</string>
+    <string name="title_activity_login">Вход</string>
+    <string name="title_activity_main_app_page">Главная страница</string>
+    <string name="action_settings">Настройки</string>
+    <string name="logout">Выйти</string>
+    <string name="forgot_password"><u>Забыли пароль?</u></string>
+    <string name="title_activity_individual_product">Товар</string>
+    <string name ="verify_email">Проверьте свой почтовый ящик для подтверждения</string>s>
+
+    <!-- Add the IP address of the image server here and build the APK or deploy the server somewhere and fix the IP Address in the apk below -->
+
+
+</resources>

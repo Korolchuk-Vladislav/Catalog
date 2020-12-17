@@ -1,0 +1,84 @@
+{
+  "items" : {
+    "item0" : {
+      "description" : "MacBook is a term used for a brand of Mac notebook computers that Apple started producing in 2006. The American multinational corporation created MacBook computers when it consolidated its PowerBook and iBook lines during its transition to Intel processor-based products. As of 2013, there are two types of MacBook computers: the base-level MacBook Air and the upper-level MacBook Pro.",
+      "name" : "MacBook Pro 13 without touch bar",
+      "price" : 1299,
+      "productID" : 0,
+      "quantity" : 10,
+      "type" : "Mac"
+    },
+    "item1" : {
+      "description" : "MacBook is a term used for a brand of Mac notebook computers that Apple started producing in 2006. The American multinational corporation created MacBook computers when it consolidated its PowerBook and iBook lines during its transition to Intel processor-based products. As of 2013, there are two types of MacBook computers: the base-level MacBook Air and the upper-level MacBook Pro.",
+      "name" : "MacBook Pro 13 with touch bar",
+      "price" : 1499,
+      "productID" : 1,
+      "quantity" : 10,
+      "type" : "Mac"
+    },
+    "item2" : {
+      "description" : "MacBook is a term used for a brand of Mac notebook computers that Apple started producing in 2006. The American multinational corporation created MacBook computers when it consolidated its PowerBook and iBook lines during its transition to Intel processor-based products. As of 2013, there are two types of MacBook computers: the base-level MacBook Air and the upper-level MacBook Pro.",
+      "name" : "MacBook Pro 15 2017",
+      "price" : 1999,
+      "productID" : 2,
+      "quantity" : 10,
+      "type" : "Mac"
+    },
+    "item3" : {
+      "description" : "iPhone is extremely thin (only 11.6 millimeters thick) but wider and longer than many comparable devices. The display area is a 3.5-inch wide screen multi-touch interface with unusually high resolution (160 pixels per inch). Unlike most other smartphones, iPhone does not use a hardware keyboard or a stylus. To navigate, a user uses multiple taps and drags to navigate through a mobile version of Apple's OS X operating system. Like iPod, iPhone synchronizes data with a user's personal computer, using iTunes as a client software and Apple's proprietary USB port. iPhone is compatible with Microsoft's Windows operating systems, including Vista.",
+      "name" : "iPhone X 64Gb",
+      "price" : 999,
+      "productID" : 3,
+      "quantity" : 7,
+      "type" : "iPhone"
+    },
+    "item4" : {
+      "description" : "iPhone is extremely thin (only 11.6 millimeters thick) but wider and longer than many comparable devices. The display area is a 3.5-inch wide screen multi-touch interface with unusually high resolution (160 pixels per inch). Unlike most other smartphones, iPhone does not use a hardware keyboard or a stylus. To navigate, a user uses multiple taps and drags to navigate through a mobile version of Apple's OS X operating system. Like iPod, iPhone synchronizes data with a user's personal computer, using iTunes as a client software and Apple's proprietary USB port. iPhone is compatible with Microsoft's Windows operating systems, including Vista.",
+      "name" : "iPhone 7 32Gb Black",
+      "price" : 549,
+      "productID" : 4,
+      "quantity" : 17,
+      "type" : "iPhone"
+    },
+    "item5" : {
+      "description" : "iPhone is extremely thin (only 11.6 millimeters thick) but wider and longer than many comparable devices. The display area is a 3.5-inch wide screen multi-touch interface with unusually high resolution (160 pixels per inch). Unlike most other smartphones, iPhone does not use a hardware keyboard or a stylus. To navigate, a user uses multiple taps and drags to navigate through a mobile version of Apple's OS X operating system. Like iPod, iPhone synchronizes data with a user's personal computer, using iTunes as a client software and Apple's proprietary USB port. iPhone is compatible with Microsoft's Windows operating systems, including Vista.",
+      "name" : "iPhone 7 Plus 32Gb Black",
+      "price" : 669,
+      "productID" : 5,
+      "quantity" : 4,
+      "type" : "iPhone"
+    },
+    "item6" : {
+      "description" : "iPhone is extremely thin (only 11.6 millimeters thick) but wider and longer than many comparable devices. The display area is a 3.5-inch wide screen multi-touch interface with unusually high resolution (160 pixels per inch). Unlike most other smartphones, iPhone does not use a hardware keyboard or a stylus. To navigate, a user uses multiple taps and drags to navigate through a mobile version of Apple's OS X operating system. Like iPod, iPhone synchronizes data with a user's personal computer, using iTunes as a client software and Apple's proprietary USB port. iPhone is compatible with Microsoft's Windows operating systems, including Vista.",
+      "name" : "iPhone SE Space Gray 32Gb",
+      "price" : 349,
+      "productID" : 6,
+      "quantity" : 21,
+      "type" : "iPhone"
+    },
+    "item7" : {
+      "description" : "Apple Watch - is a line of smartwatches developed, designed, and marketed by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services. The original generation of the device was available in four variants: Apple Watch Sport, Apple Watch, Apple Watch Hermès, and Apple Watch Edition; each distinguished by different combinations of cases and first- or third-party interchangeable bands.",
+      "name" : "Apple Watch Series 3",
+      "price" : 329,
+      "productID" : 7,
+      "quantity" : 0,
+      "type" : "Watch"
+    },
+    "item8" : {
+      "description" : "Apple Watch - is a line of smartwatches developed, designed, and marketed by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services. The original generation of the device was available in four variants: Apple Watch Sport, Apple Watch, Apple Watch Hermès, and Apple Watch Edition; each distinguished by different combinations of cases and first- or third-party interchangeable bands.",
+      "name" : "Apple Watch Nike+ (SERIES 3, GPS + CELLULAR)",
+      "price" : 399,
+      "productID" : 8,
+      "quantity" : 4,
+      "type" : "Watch"
+    },
+    "item9" : {
+      "description" : "Apple Watch - is a line of smartwatches developed, designed, and marketed by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services. The original generation of the device was available in four variants: Apple Watch Sport, Apple Watch, Apple Watch Hermès, and Apple Watch Edition; each distinguished by different combinations of cases and first- or third-party interchangeable bands.",
+      "name" : "Apple Watch Series 1",
+      "price" : 249,
+      "productID" : 9,
+      "quantity" : 5,
+      "type" : "Watch"
+    }
+  }
+}
