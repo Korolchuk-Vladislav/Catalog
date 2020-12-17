@@ -50,11 +50,17 @@ public class ShoppingCartAdapter extends ArrayAdapter {
         ((TextView) listItemView.findViewById(R.id.cartItemQuantity))
                 .setText(x);
 
-        int itemPrice=0;
+        int itemPrice = 0;
         try{
             itemPrice = Integer.valueOf(NumberFormat.getCurrencyInstance()
                     .parse(String.valueOf(currentItem.getPrice()))
                     .toString());
+            System.out.println(itemPrice);
+            System.out.println(itemPrice);
+            System.out.println(itemPrice);
+            System.out.println(itemPrice);
+            System.out.println(itemPrice);
+
         } catch (ParseException e){
             e.printStackTrace();
         }
@@ -63,6 +69,7 @@ public class ShoppingCartAdapter extends ArrayAdapter {
 
         ((TextView) listItemView.findViewById(R.id.cartItemTotal))
                 .setText(NumberFormat.getCurrencyInstance().format(itemPrice * currentItem.getQuantity()));
+
 
         // No idea how to implement remove individual item from cart
         // Appreciated if anyone can fix it.
@@ -77,6 +84,7 @@ public class ShoppingCartAdapter extends ArrayAdapter {
 
         return listItemView;
     }
+
     public static String getLinkImage(ShoppingItem item)
     {
         String[] urls = new String[] {

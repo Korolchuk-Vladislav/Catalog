@@ -1,5 +1,7 @@
 package ru.korolchuk.catalog.other.item;
 
+import android.content.Context;
+
 import java.io.Serializable;
 import java.text.NumberFormat;
 
@@ -40,6 +42,7 @@ public class ShoppingItem implements Serializable{
     public int getQuantity() {
         return quantity;
     }
+
 
     public String getPrice() {
         return NumberFormat.getCurrencyInstance().format(price);

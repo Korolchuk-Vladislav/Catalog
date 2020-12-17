@@ -109,12 +109,13 @@ public class ShoppingCartPresenter extends MvpPresenter<ShoppingCartView> {
             ));
 
             totalAmount += quantity*itemPrice;
+
         }
 
         // Now the Cart gets updated whenever the data changes in the server
-
+        String totalAmountView = "$" + totalAmount;
         getViewState().setItems(items);
-        getViewState().setPriceView(NumberFormat.getCurrencyInstance().format(totalAmount));
+        getViewState().setPriceView(totalAmountView);
     }
 
     public void clearCart() {

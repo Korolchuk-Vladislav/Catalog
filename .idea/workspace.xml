@@ -30,22 +30,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f804b502-b0e6-4ad3-9c6b-83b33179c207" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_27_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_27_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_design_27_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_recyclerview_v7_27_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_27_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_27_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_27_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_transition_27_1_1_aar.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/korolchuk/catalog/ui/activity/CheckOutScreenActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/korolchuk/catalog/ui/activity/CheckOutScreenActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/korolchuk/catalog/ui/activity/IndividualProductActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/korolchuk/catalog/ui/activity/IndividualProductActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/korolchuk/catalog/ui/activity/MainAppActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/korolchuk/catalog/ui/activity/MainAppActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/korolchuk/catalog/ui/activity/OpenScreenActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/korolchuk/catalog/ui/activity/OpenScreenActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/korolchuk/catalog/ui/activity/ShoppingCartActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/korolchuk/catalog/ui/activity/ShoppingCartActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/korolchuk/catalog/other/adapter/ShoppingCartAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/korolchuk/catalog/other/adapter/ShoppingCartAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/korolchuk/catalog/other/item/ShoppingItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/korolchuk/catalog/other/item/ShoppingItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/korolchuk/catalog/presentation/presenter/ShoppingCartPresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/korolchuk/catalog/presentation/presenter/ShoppingCartPresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/korolchuk/catalog/presentation/view/IndividualProductView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/korolchuk/catalog/presentation/view/IndividualProductView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_individual_product.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_individual_product.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main_app_page.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main_app_page.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_shopping_cart_window.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_shopping_cart_window.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[12830812]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -94,24 +109,26 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_2_API_27" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-12-17T04:37:38.865Z" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-12-17T19:53:29.740Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android-custom-viewC:/Users/Vladislav/AppData/Local/Android/Sdk/sources/android-26/android/widget/TextView.java_SELECTED" value="TextView" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="device.picker.selection" value="TGS8PNMBEUSGUSHQ" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/androidTest/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TestCourse/Catalog" />
+    <property name="multi-representation-previewC:/Users/Vladislav/AppData/Local/Android/Sdk/sources/android-26/android/widget/TextView.java_selected" value="Custom views" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\CourseWork\Catalog\app\src\main\res\drawable" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\CourseWork\Catalog\app\src\androidTest\assets" />
       <recent name="D:\CourseWork\Catalog\app\src\main\res\drawable" />
       <recent name="$PROJECT_DIR$/app/src/main/res/values-ru" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CourseWork\Catalog\app\src\main\res\drawable" />
     </key>
   </component>
   <component name="RunManager">
@@ -387,6 +404,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="524" y="135" key="#xdebugger.evaluate" timestamp="1608199839940">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="524" y="135" key="#xdebugger.evaluate/0.0.1536.864@0.0.1536.864" timestamp="1608199839940" />
     <state x="93" y="93" width="1350" height="678" key="AVDManager" timestamp="1608180029031">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -395,26 +416,42 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="349" y="187" key="AndroidCreateResourceFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1608175251954" />
-    <state x="546" y="187" key="FileChooserDialogImpl" timestamp="1608186143524">
+    <state x="546" y="187" key="FileChooserDialogImpl" timestamp="1608226520657">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="546" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1608186143524" />
-    <state width="1491" height="223" key="GridCell.Tab.0.bottom" timestamp="1608173887494">
+    <state x="546" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1608226520657" />
+    <state width="1491" height="247" key="GridCell.Tab.0.bottom" timestamp="1608200328754">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1491" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1608173887494" />
-    <state width="1491" height="223" key="GridCell.Tab.0.center" timestamp="1608173887494">
+    <state width="1491" height="247" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1608200328754" />
+    <state width="1491" height="247" key="GridCell.Tab.0.center" timestamp="1608200328754">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1491" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1608173887494" />
-    <state width="1491" height="223" key="GridCell.Tab.0.left" timestamp="1608173887494">
+    <state width="1491" height="247" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1608200328754" />
+    <state width="1491" height="247" key="GridCell.Tab.0.left" timestamp="1608200328754">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1491" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1608173887494" />
-    <state width="1491" height="223" key="GridCell.Tab.0.right" timestamp="1608173887494">
+    <state width="1491" height="247" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1608200328754" />
+    <state width="1491" height="247" key="GridCell.Tab.0.right" timestamp="1608200328754">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1491" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1608173887494" />
+    <state width="1491" height="247" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1608200328754" />
+    <state width="1491" height="223" key="GridCell.Tab.1.bottom" timestamp="1608200140486">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="223" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1608200140486" />
+    <state width="1491" height="223" key="GridCell.Tab.1.center" timestamp="1608200140486">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="223" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1608200140486" />
+    <state width="1491" height="223" key="GridCell.Tab.1.left" timestamp="1608200140486">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="223" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1608200140486" />
+    <state width="1491" height="223" key="GridCell.Tab.1.right" timestamp="1608200140486">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="223" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1608200140486" />
     <state x="277" y="77" key="SettingsEditor" timestamp="1608180133774">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -423,9 +460,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="882" y="273" key="chooseDestDirectoryDialog/0.0.1536.864@0.0.1536.864" timestamp="1608166922199" />
-    <state x="428" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1608182263504">
+    <state x="428" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1608201689796">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="428" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1608182263504" />
+    <state x="428" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1608201689796" />
   </component>
 </project>

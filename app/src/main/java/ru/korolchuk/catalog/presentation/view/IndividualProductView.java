@@ -11,7 +11,7 @@ public interface IndividualProductView extends MvpView {
 
     void setDescription(String text);
 
-    void setPrice(String text);
+    void setPrice(String price);
 
     void setProgressBarVisibility(int visibility);
 
